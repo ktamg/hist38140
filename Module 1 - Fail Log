@@ -1,0 +1,88 @@
+Exercise 1:
+
+Thoughts about exercise:
+I enjoyed using Dillinger.io -- learning the markdown syntax wasn’t too challenging. I can see why it would be useful for
+those working with text.  
+
+Things that were hard/what I did:
+My only challenge was that my images weren't displaying. Instead there was just a little box where it was supposed to be. This
+is what I had written down:
+
+![picture](https://www.pexels.com/photo/fashion-woman-girl-women-34075/ "Reading")
+![picture](https://www.pexels.com/photo/book-macbook-pro-working-studying-7354/ "Studying")
+
+Thoughts on where to go next:
+I'd like to work with markdown a bit more so I'm comfortable using it in the course.
+I would also like to learn some html so I can have a website of my own one day. 
+
+------
+Exercise 2:
+
+Thoughts about the exercise:
+Working with DH Box initially seemed intimidating but wasn’t too bad once I played around with it. 
+
+Things that were hard/what I did:
+I was having a bit of trouble opening the dhbox-work-today.md file for a while and received these messages:
+
+ktamg2@1b6946be137d:~$ nano dhbox-work-today.md
+-bash: nano: command not found
+
+I read a bit further into the exercise description and realized I had to install the nano text editor.
+I typed in “history” again to return to main directory, then retried the command to open the file, and it worked!
+
+Thoughts on where to go next:
+I was able to complete the exercise but I'll have to practice using this more to be fully comfortable.
+
+------
+Exercise 3:
+
+Thoughts about the exercise:
+Creating the repository was straightforward, and now I know how to push files to my Github which will be useful for this 
+course, as well as other work I am undertaking.
+
+Things that were hard/what I did:
+I initially didn't understand what a "commit" was and had to read about it several times to understand.
+
+------
+Exercise 4:
+
+Thoughts about the exercise:
+This was really challenging and I’m not very sure what I’m doing. I’m wary of continuing on without understanding.
+
+Things that were hard/what I did:
+I did the git init and that wasn’t too bad, but I got stuck toward the end of “git status.” (at the step where it was supposed to display this)
+
+On branch master
+Initial commit
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.md```
+
+I received:
+
+ktamg2@1b6946be137d:~/first-repo$ git status
+On branch master
+Initial commit
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        readme.md
+nothing added to commit but untracked files present (use "git add" to track)
+ktamg2@1b6946be137d:~/first-repo$ git add <first-repo>
+-bash: syntax error near unexpected token `newline'
+ktamg2@1b6946be137d:~/first-repo$ git commit -m "My first commit"
+On branch master
+Initial commit
+Untracked files: readme.md
+nothing added to commit but untracked files present
+ktamg2@1b6946be137d:~/first-repo$ 
+
+
+I’m certain I did something horribly wrong, but I haven’t a clue where to begin. I feel as though this is the wall where 
+I can’t continue anymore, despite wanting to. On a positive note, I’m glad that I was at least able to do the “git init” 
+but if the rest of this exercise is something we’re expected to do regularly, I’ll be quite worried. I spent a good four 
+hours redoing this exercise and haven’t received different results.
+
+Thoughts on where to go from here:
+I think I’ll probably have to put time aside to figure out how to use this. I would prefer to drag and drop files 
+into Github because this is intimidating. I did feel like I went out of my comfort zone, so I hope to do that the next 
+few weeks as well. 
